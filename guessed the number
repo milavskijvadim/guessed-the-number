@@ -1,0 +1,3 @@
+  if guess == secret_number
+            puts "Congratulations, you've guessed the number!"
+            return
